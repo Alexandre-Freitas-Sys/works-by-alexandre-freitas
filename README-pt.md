@@ -24,4 +24,4 @@ Este repositório é um espaço vivo que reflete minha jornada, evolução e pai
 ## 🛠 Habilidades
 HTML, CSS, ...
 
-### ↩️ [Back](readme.md) 
+### ↩️ [Back](README.md) 
