@@ -22,6 +22,6 @@ Este repositório é um espaço vivo que reflete minha jornada, evolução e pai
 
 
 ## 🛠 Habilidades
- Markdown, HTML, CSS, PHP, Payton, Segurança Cibernética ...
+ Markdown, HTML, CSS, PHP, Python, Segurança Cibernética ...
 
 ### ↩️ [Back](README.md) 

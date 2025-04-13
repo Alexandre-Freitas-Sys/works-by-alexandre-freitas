@@ -21,7 +21,7 @@ This repository is a living space that reflects my journey, evolution, and passi
 ### 🚀 Updates will be constant, as I believe growth is continuous, and a good professional never stops evolving.
 
 ## 🛠 Habilidades
-Markdown, HTML, CSS, PHP, Payton, Cybersecurity ...
+Markdown, HTML, CSS, PHP, Python, Cybersecurity ...
 
 
 ### ↩️ [Voltar](README.md) 
