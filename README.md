@@ -7,7 +7,7 @@ Hi there! Thank you for stopping by. In this portfolio, you'll find a bit about 
 🔽 Escolha abaixo o idioma para visualizar o conteúdo completo:  
 🔽 Please choose your preferred language to view the full content:
 
-- 🇧🇷 [Português](readme-pt.md)
-- 🇺🇸 [English](readme-en.md)
+- 🇧🇷 [Português](README-pt.md)
+- 🇺🇸 [English](README-en.md)
 
 ---
